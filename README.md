@@ -11,7 +11,11 @@ I'll try to keep this up to date but i still have to do my daily tasks before th
 - when booted into os connect to pc then run:
 ```
 adb reboot bootloader
-fastboot flash patched-boot.img
+```
+```
+fastboot flash boot patched-boot.img
+```
+```
 fastboot reboot
 ```
 
