@@ -13,12 +13,18 @@ I'll try to keep this up to date but i still have to do my daily tasks before th
 adb reboot bootloader
 ```
 ```
-fastboot flash boot patched-boot.img
+fastboot boot <patched-boot.img>
+```
+IF it boots succesfully
+```
+adb reboot bootloader
+```
+```
+fastboot flash boot <patched-boot.img>
 ```
 ```
 fastboot reboot
 ```
-
 
 You probably dont care but heres my paypal anyways feel free to donate if you want to:
 
