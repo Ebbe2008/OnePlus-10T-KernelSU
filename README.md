@@ -31,7 +31,3 @@ You probably dont care but heres my paypal anyways feel free to donate if you wa
 `
 @EbbeChr
 `
-
-`
-Ebbechristensen08@gmail.com
-`
