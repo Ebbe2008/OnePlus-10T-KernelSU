@@ -1,3 +1,5 @@
+## NO LONGER ACTIVE, i've sold the device.
+
 # OnePlus-10T-KernelSU
 Images made by yours truly for installing KernelSU for OnePlus 10T devices
 There are both india and Eu boot images in releases
@@ -26,7 +28,7 @@ fastboot flash boot <patched-boot.img>
 fastboot reboot
 ```
 
-You probably dont care but heres my paypal anyways feel free to donate if you want to:
+You probably don't care but here's my paypal anyways feel free to donate if you want to:
 
 `
 @EbbeChr
